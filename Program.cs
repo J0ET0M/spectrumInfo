@@ -1,8 +1,5 @@
 ﻿using System.Net.Sockets;
 using System.Net;
-using System.Text;
-using System.Data;
-using System.Security.Cryptography.X509Certificates;
 using System.Runtime.InteropServices;
 
 namespace li.qubic.community.spectrumInfo
